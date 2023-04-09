@@ -34,6 +34,9 @@
 
 }
 
+#socialfooter{
+    margin-right: 5%;
+}
 
 
 #materia{
@@ -56,4 +59,48 @@
     height: 60px;
     background-color: #4169e1;
     margin-left: 453px;
+}
+
+#footer{
+    height: 100%;
+    width: 100%;
+    background-color: #000000;
+    color: #4169e1;
+    border-radius:10px;
+    font-family: 'Fredoka', sans-serif ;
+}
+
+#github{
+    height: 50px;
+    width: 50px;
+}
+
+#foto{
+    border-radius: 50% ;
+    width: 40%;
+    
+}
+
+#informacoes{
+    color: #ffffff;
+    background-color: #4169e1;
+    margin-top: -35px;
+    margin-left: 170px;
+    width: 300px;
+    height: 180px;
+    background-color:#39c;
+    border-top:10px solid #39c;
+    border-left:10px solid transparent;
+    background-clip: padding-box;
+    padding: 0 10px 10px 10px;
+    border-radius: 10px;
+    border-bottom-left-radius: 17px ;
+    font-size: 8px;
+}
+#titulodobalao{
+    font-size: 20px;
+}
+
+#link{
+    font-size: 15px;
 }
