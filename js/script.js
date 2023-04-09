@@ -5,12 +5,12 @@ var materia=["PW","DS","BD","PAM"];
 
 
 function nome(){
-    var loopnomes = document.getElementById("loopnomes");
-    loopnomes.innerHTML=nomes;
+    var loopnomes = document.getElementById("localpnomes");
+    localpnomes.innerHTML=nomes;
 }
 
 function materias(){
-    var loopmaterias=document.getElementById("loopmaterias");
-    loopmaterias.innerHTML=materia;
+    var loopmaterias=document.getElementById("localpmaterias");
+    localmaterias.innerHTML=materia;
 }
 
